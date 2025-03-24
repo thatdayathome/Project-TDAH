@@ -22,7 +22,7 @@ html, body {
     font-style: normal;
 }
 
-/* Style for the container */
+/* Style for the container with background */
 .container {
     display: grid;
     grid-template-rows: auto auto auto; /* 3 rows */
